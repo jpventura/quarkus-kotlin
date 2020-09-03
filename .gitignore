@@ -8,3 +8,8 @@
 
 ## Dependency directories
 node_modules/
+
+# OS X
+
+## macOS folder attributes
+.DS_Store
